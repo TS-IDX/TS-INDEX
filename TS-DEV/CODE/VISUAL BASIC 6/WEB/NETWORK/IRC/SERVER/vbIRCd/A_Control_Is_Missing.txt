@@ -1,0 +1,25 @@
+There is a control missing from this zip file
+which this project vbIRCd only needs this one
+OCX control which is called Socket Wrench and
+it could not be uploaded with the zip file
+because Planet Source Code has rules about not
+allowing uploaded EXEs, OCXs, and DLLs.  So
+you will need to get it your self if you do not
+already have it installed on your system.
+
+To see if you need to get it just open the vbIRCd
+project file and if VB complains about a missing
+file named "CSWSK32.OCX" then you do need to get
+it.  If not then go ahead and check thru the code
+and compile the thing and have fun! :)
+
+
+If you do need the file then download it from this
+URL: http://www.ircd-net.org/CSWSK32.zip
+and just put the file after unzipping it into your
+windows/system directory
+Win95/98/ME users it's C:\Windows\System\
+WinNT Users it's C:\WinNT\System32\
+
+and then run the vbIRCd Project and have
+some fun with it. :)

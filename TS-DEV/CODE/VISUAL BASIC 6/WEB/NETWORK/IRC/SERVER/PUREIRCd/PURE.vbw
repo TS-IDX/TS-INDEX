@@ -1,0 +1,17 @@
+frmMain = 44, 44, 710, 660, C, 22, 22, 688, 638, C
+modMain = 0, 0, 0, 0, C
+clsUser = 0, 0, 0, 0, C
+clsChannel = 0, 0, 0, 0, C
+modIRCUserCommands = 0, 0, 0, 0, C
+frmUserInfo = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modChanServ = 0, 0, 0, 0, C
+clsDatabase = 0, 0, 0, 0, C
+modDNS = 0, 0, 0, 0, C
+modNickServ = 0, 0, 0, 0, C
+modMemoServ = 0, 0, 0, 0, C
+clsMemos = 0, 0, 0, 0, C
+MemoCol = 0, 0, 0, 0, C
+frmUsers = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmChannels = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modOperServ = 0, 0, 0, 0, C
+modConf = 0, 0, 0, 0, C

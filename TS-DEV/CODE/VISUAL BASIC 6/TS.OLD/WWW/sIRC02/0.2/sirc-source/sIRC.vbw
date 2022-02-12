@@ -1,0 +1,14 @@
+modIRC = 51, 0, 1142, 713, C
+modMain = 66, 19, 870, 467, C
+frmChannel = 27, 36, 560, 484, C, 22, 22, 555, 470, C
+frmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmOption = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmSocket = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmPrivate = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modForm = 0, 0, 0, 0, C
+modOperators = 0, 0, 0, 0, C
+frmColor = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modColor = 0, 0, 0, 0, C
+frmStatus = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+Input = 0, 0, 0, 0, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C

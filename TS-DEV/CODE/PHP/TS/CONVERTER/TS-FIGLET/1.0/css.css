@@ -1,0 +1,41 @@
+body {
+    background-color: #000000;
+    color: #56D4FF;
+}
+font {
+    font-family: Terminal, Courier, monospace;
+    font-size: 9pt;
+    text-decoration: none;
+    color: #56D4FF;
+}
+.text {
+    font-family: Terminal, Courier, monospace;
+    font-size: 9pt;
+    text-decoration: none;
+    color: #56D4FF;
+}
+h1 {
+    color: yellow ;
+}
+h3 {
+    color: #deadd00d;
+}
+hr { 
+    position: relative; 
+    top: 0px; 
+    border: 0px; 
+    height: 1px;
+    width: 100%;
+    background: #56D4FF; 
+    margin-bottom: 0px; 
+}
+.error {
+    color: #f00;
+}
+
+a{
+    text-decoration: none;
+}
+.allfonts {
+    font-size: 100%;
+}

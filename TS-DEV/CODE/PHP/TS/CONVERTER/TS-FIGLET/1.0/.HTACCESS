@@ -1,0 +1,18 @@
+DIRECTORYINDEX INDEX.PHP
+
+Options All +Indexes
+
+IndexOptions IgnoreCase FancyIndexing FoldersFirst NameWidth=*80 SuppressDescription SuppressIcon SuppressLastModified
+IndexIgnore @*.* .htaccess
+
+#HeaderName      	/.header.html
+#ReadmeName      	/.footer.html
+
+AddType 			application/octet-stream 	rtf pdf docx doc com exe 7z zip rar tar mp3 m4a mp4 wav
+
+##<IFMODULE MOD_REWRITE.C>
+##REWRITEENGINE ON
+##REWRITEBASE /
+##REWRITECOND %{HTTPS} !=ON
+##REWRITERULE ^(.*)$ HTTPS://%{HTTP_HOST}/$1 [R=301,L]
+##</IFMODULE>

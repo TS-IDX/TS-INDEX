@@ -1,0 +1,8 @@
+server_settings = 0, 0, 643, 522, 
+server_control = 0, 0, 776, 390, 
+client_control = 198, 198, 841, 720, 
+FTP_control = 242, 242, 885, 764, 
+client_settings = 198, 198, 841, 720, 
+file_control = 176, 176, 819, 698, 
+data_transfers = 220, 220, 863, 742, 
+frmMain = 242, 242, 885, 764, , 220, 220, 863, 742, C

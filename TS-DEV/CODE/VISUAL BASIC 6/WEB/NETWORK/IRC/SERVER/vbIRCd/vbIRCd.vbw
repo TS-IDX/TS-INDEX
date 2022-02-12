@@ -1,0 +1,8 @@
+frmMain = 110, 110, 573, 403, C, 22, 22, 485, 315, C
+Modoule = 44, 44, 507, 337, C
+Mod_DataSYS = 88, 88, 551, 381, C
+Mod_ChanSYS = 22, 22, 485, 331, C
+Mod_DataBase = 110, 110, 573, 403, Z
+Mod_ServCMDs = 44, 44, 507, 337, C
+Mod_ServCMDs2 = 22, 22, 485, 315, C
+Mod_UnixTime = 0, 0, 463, 293, C
